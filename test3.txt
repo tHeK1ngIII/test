@@ -3,7 +3,11 @@ BiBou, bAbou23
 <<<<<<< Updated upstream
 Bibou, babou
 25
+<<<<<<< Updated upstream
 youpi pufu pito
 =======
 ujoklklkpôpl!mlùmlp^^
+>>>>>>> Stashed changes
+=======
+youpi pufu pito
 >>>>>>> Stashed changes
