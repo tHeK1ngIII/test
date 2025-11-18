@@ -1,15 +1,1 @@
-BiBou, bAbou23
-25655git
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Bibou, babou
-25
-<<<<<<< Updated upstream
-youpi pufu pito
-=======
-ujoklklkpôpl!mlùmlp^^
->>>>>>> Stashed changes
-=======
-youpi pufu pito
->>>>>>> Stashed changes
-
+coucou
